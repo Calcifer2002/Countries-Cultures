@@ -1,0 +1,382 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+   
+
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+nav{
+
+
+font-family: 'Noto Serif Display', serif;
+font-weight: bold;
+}
+nav ul li:hover{
+  background-color:#38a094 ;
+  border-radius: 10%;
+}
+  
+.backgrnd1{
+  margin-top:0px;
+  width: 100%;
+  height: 100%;
+}
+
+.backgrnd2{
+  width: 100%;
+  height: 100%;
+}
+
+.backgrnd3{
+  width: 100%;
+  height: 100%;
+}
+
+.backgrnd4{
+  width: 100%;
+  height: 100%;
+}
+
+.backgrnd5{
+  width: 100%;
+  height: 100%;
+}
+
+.backgrnd6{
+  width: 100%;
+  height: 100%;
+}
+
+.contents{
+  font-size: 14px;
+  color: white;
+  font-weight: bolder;
+  background-color: black;
+}
+
+.home-txt{
+
+  text-align: center;
+  background-color:  #38a094;
+  color: black;
+font-family: 'Noto Serif Display', serif;
+font-size: 3vh;
+margin-top:-13%;
+height: 160vh;
+
+
+
+}
+
+.home-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+
+.home-txt:hover{
+  color: #38a094;
+  background-color: black;
+  transition: all ease 0.3s;
+}
+
+.europe-txt{
+  
+  text-align: center;
+  background-color:  black;
+  color: white;
+  
+font-family: 'Noto Serif Display', serif;
+font-size: 2.3vh;
+height:150vh;
+
+margin-top: auto;
+margin-bottom: auto;
+align-items: center;
+
+}
+
+.europe-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+
+.europe-txt:hover{
+  color: black;
+  background-color:#ffc125;
+  transition: all ease 0.3s;
+}
+
+.asia-txt{
+  margin-top: -0.5vh;
+  text-align: center;
+  background-color:  black;
+  color: white;
+  font-family: 'Noto Serif Display', serif;
+  font-size: 2.3vh;
+}
+
+.asia-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+.asia-txt:hover{
+  color: black;
+  background-color: #e7445e;
+  transition: all ease 0.3s;
+}
+
+
+.txt3{   
+  margin-top: -80vh;
+}
+
+.na-txt{
+  margin-top: -0.5vh;
+  text-align: center;
+  background-color:  black;
+  color: white;
+font-family: 'Noto Serif Display', serif;
+font-size: 2.3vh;
+}
+
+.na-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+
+.na-txt:hover{
+  color: black;
+  background-color: #66688d;
+  transition: all ease 0.3s;
+}
+
+
+.txt4{
+    
+  margin-top: -80vh;
+}
+
+.sa-txt{
+  
+  text-align: center;
+  background-color:  black;
+  color: white;
+font-family: 'Noto Serif Display', serif;
+font-size: 2.3vh;
+height:150vh ;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+.sa-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+
+.sa-txt:hover{
+  color: black;
+  background-color: #da6f46;
+  transition: all ease 0.3s;
+}
+
+
+.txt5{
+    
+  margin-top: -80vh;
+}
+
+.africa-txt{
+  margin-top: -0.5vh;
+  text-align: center;
+  background-color:  black;
+  color: white;
+font-family: 'Noto Serif Display', serif;
+font-size: 2.3vh;
+}
+
+.africa-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+
+.africa-txt:hover{
+  color: white;
+  background-color: 	#2b2926;
+  transition: all ease 0.3s;
+}
+
+
+
+.txt6{
+    
+  margin-top: -80vh;
+}
+
+.au-txt{
+  margin-top: -0.5vh;
+  text-align: center;
+  background-color:  black;
+  color: white;
+font-family: 'Noto Serif Display', serif;
+font-size: 2.3vh;
+}
+
+.au-txt h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 6vh;
+}
+
+.au-txt:hover{
+  color: black;
+  background-color: 	#95cb8a;
+  transition: all ease 0.3s;
+}
+
+
+
+
+
+.btn1{
+  margin-top: 3vh;
+  width: 15vh;
+  height: 8vh;
+  background-color: black;
+  border: #38a094;
+  border-radius: 1vh;
+}
+.btn1 {
+  text-decoration: none;
+  color: #ffc125;
+  font-family: 'Noto Serif Display', serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 2.6vh;
+}
+.btn1:hover{
+  color: #ffc125;
+  background-color: white;
+}
+
+
+.btn2{
+  margin-top: 3vh;
+  width: 15vh;
+  height: 8vh;
+  background-color: black;
+  border: #38a094;
+  border-radius: 1vh;
+}
+.btn2 {
+  text-decoration: none;
+  color: #e7445e;
+  font-family: 'Noto Serif Display', serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 2.6vh;
+}
+.btn2:hover{
+  color: #e7445e;
+  background-color: white;
+}
+
+.btn3{
+  margin-top: 3vh;
+  width: 15vh;
+  height: 8vh;
+  background-color: black;
+  border: #38a094;
+  border-radius: 1vh;
+}
+.btn3 {
+  text-decoration: none;
+  color: #66688d;
+  font-family: 'Noto Serif Display', serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 2.6vh;
+}
+.btn3:hover{
+  color: #66688d;
+  background-color: white;
+}
+
+.btn4{
+  margin-top: 3vh;
+  width: 15vh;
+  height: 8vh;
+  background-color: black;
+  border: #38a094;
+  border-radius: 1vh;
+}
+.btn4{
+  text-decoration: none;
+  color: salmon;
+  font-family: 'Noto Serif Display', serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 2.6vh;
+}
+.btn4:hover{
+  color: salmon;
+  background-color: white;
+}
+
+
+.btn5{
+  margin-top: 3vh;
+  width: 15vh;
+  height: 8vh;
+  background-color: black;
+  border: #38a094;
+  border-radius: 1vh;
+}
+.btn5{
+  text-decoration: none;
+  color: white;
+  font-family: 'Noto Serif Display', serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 2.6vh;
+}
+.btn5:hover{
+  color: white;
+  background-color: #2b2926;
+}
+
+.btn6{
+  margin-top: 3vh;
+  width: 15vh;
+  height: 8vh;
+  background-color: black;
+  border: #38a094;
+  border-radius: 1vh;
+}
+.btn6{
+  text-decoration: none;
+  color: #95cb8a;
+  font-family: 'Noto Serif Display', serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+  font-size: 2.6vh;
+}
+.btn6:hover{
+  color: #95cb8a;
+  background-color: white;
+}
+
+ footer {
+  color: black;
+  padding: 1%;
+  background-color: #73866f;
+  font-family: 'Josefin Sans', sans-serif;
+}
+footer a {
+  color: black;
+}

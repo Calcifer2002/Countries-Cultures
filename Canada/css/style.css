@@ -1,0 +1,50 @@
+.body{
+  background-color:#38a094;
+}
+img{
+  float: left;
+
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  width: 40%;
+  margin-top: 3%;
+  height: 40%;
+ 
+}
+.section h2{
+  margin-top:13%;
+}
+ul{
+  text-align: center;
+}
+  nav ul li:hover{
+    background-color:#38a094 ;
+    border-radius: 10%;
+  }
+footer{
+  background-color: #73866f;;
+  color: black;
+}
+.section h1{
+  color: black;
+  text-decoration: 2px solid underline;
+}
+
+
+th:hover{
+  background-color:#4e4f5f70 ;
+}
+td:hover{
+  background-color:#4e4f5f70 ;
+}
+tr:hover{
+  background-color:#4e4f5f70 ;
+}
+ul li{
+  color: black;
+}
+
+
+
+  

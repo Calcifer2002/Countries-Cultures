@@ -1,0 +1,166 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  
+  
+    
+}
+nav{ 
+
+    font-family: 'Noto Serif Display', serif;
+    font-weight: bold;
+  
+
+    }
+    h6{
+        font-size: 2vw;
+    }
+img:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+.section {
+    background-color: rgba(255, 255, 255, 0);
+    left: 10%;
+    right: 10%;
+    position: relative;
+    top: 10%;
+    margin-top: 13%;
+    width: 80%;
+    padding: 5%;
+    z-index: 1;
+
+}
+section p{
+    font-size: 2vw;
+}
+.section ul li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+h1{
+    padding:1%;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.l-table th{
+    border: 1px solid #3b3b3b;
+    text-align: left;
+    padding: 8px;
+  }
+  .l-table td{
+    border: 1px solid #3b3b3b;
+    text-align: left;
+    padding: 8px;
+  }
+
+.section h1{
+    font-family: 'Abril Fatface', cursive;
+    text-decoration: 2px solid underline;
+    text-align: center;
+}
+.section p{
+    font-family: 'Noto Serif Display', serif;
+    font-weight: bolder;
+    color: black;
+}
+
+
+figure figcaption {
+    padding: 10%;
+    text-align: center;
+    position: absolute;
+    margin-top: 7%;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+  
+}
+.section ul li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.section h2{
+    font-family: 'Abril Fatface', cursive;
+    text-decoration: 2px solid underline ;
+    text-align: center;
+    color: black;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.section h6{
+    margin-top: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.section h6{
+    color: black;
+    font-size: 1vw;
+}
+
+footer {
+    color: black;
+    padding: 1%;
+    background-color: rgb(224, 247, 195);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1vw;
+  }
+  footer a {
+    color: black;
+  }
+  
+a {
+    text-decoration: none;
+   }
+   li {
+    list-style: none;
+   }
+  
+   
+
+@media screen and (min-width: 700px) and (max-width: 1100px){
+    img{
+        width: 60%;
+        height: 60%;
+    }
+
+  }
+  @media screen and (min-width: 500px) and (max-width: 700px){
+    .section{
+        margin-top: 20%;
+    }
+    nav a {
+        font-size: 2vw;
+        
+    }
+    img{
+        width: 60%;
+        height: 60%;
+    }
+    
+  }
+
+  @media screen and (min-width: 200px) and (max-width: 500px){
+.section{
+    margin-top: 20%;
+}
+
+}
+
+  
+ 
